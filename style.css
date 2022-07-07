@@ -1,0 +1,213 @@
+.f-donate-now{
+    background-image: url("donation8.jpg");
+    padding: 110px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+
+.donate-now h1{
+    font-family:'Oswald', sans-serif ;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+}
+  
+.donate-now p{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    padding: 0px 350px;
+}
+
+ .button1 {
+    background-color: #ea4d2e; /* Green */
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+  }
+
+ 
+
+.donate-today{
+  overflow: hidden;
+ }
+
+.donate-today h1{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+    color: #000;
+  }
+
+.donate-today p{
+    text-align: center;
+    color: rgb(82, 81, 80);
+    padding: 0px 370px;
+  }
+  
+.donate-today ul{
+  padding: 0px 420px;
+  }
+
+.donate-today li{
+    list-style: none;
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 30px 10px;
+    margin: 10px;
+    float: left;
+    color: #5a5656;
+    background-color: rgb(244, 244, 239);
+  }
+
+.form-donet{
+    text-align: center;
+  }
+
+.form-donet input {
+border: none;
+border-bottom: #2b2a2a 1px solid;
+padding-left: 220px;
+padding-right: 200px;
+margin-top: 50px;  
+ }
+
+.button2{
+    background-color: #ea4d2e; /* Green */
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+
+
+.our-donate-plan h1{
+    font-size: 50px;
+    color: #000;
+    text-align: center;
+    margin-top: 70px; 
+  }
+
+.our-donate-plan p{
+  text-align: center;
+  color: rgb(116, 111, 111);
+  padding-left: 350px;
+  padding-right: 350px;
+  }
+
+.plan-list{
+  display: flex;
+  padding: 0px 200px;
+ }
+
+.plan1{
+  padding:50px 10px;
+  background-color: rgb(194, 199, 199);
+  margin: 20px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+.plan2{
+  padding:50px 10px;
+  background-color: rgb(244, 226, 246);
+  margin: 20px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+.plan3{
+  padding: 50px  10px;
+  background-color: rgb(212, 213, 244);
+  margin: 20px;
+  border-radius: 5px;
+  font-size: 15px;
+ }
+
+.team-hed h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+.our-team {
+  text-align: center;
+  padding: 0px 200px ;
+  display: flex;
+ }
+
+.our-team img{
+  width: 300px;
+  height: 300px;
+  margin: 0px 30px;
+  border-radius: 10px;
+  border: #5a5656 5px solid;
+
+}
+
+.get-update{
+  text-align: center;
+}
+
+.get-update h1{
+  font-size: 50px;
+
+}
+
+.get-update p {
+ padding-left: 400px;
+ padding-right: 400px;
+ color: rgb(77, 74, 74);
+ margin-bottom: 50px;
+ }
+
+.update-btn{
+  text-align: center;
+  background-color: rgb(199, 194, 174);
+  padding: 100px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-bottom: 100px;
+ }
+.e-btn{
+  background-color: #5a5656; /* Green */
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 100px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;   
+}
+
+.s-btn{
+  background-color: #ea4d2e; /* Green */
+    border: none;
+    border-radius:0px 5px 5px  0px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: -30px;
+  }
+
+footer{
+  text-align: center;
+  background-color: rgb(17, 18, 18);
+  padding: 20px;
+  }
+
+footer h2{
+  color: #d43718;
+  }
+footer p{
+  color: bisque;
+  }
